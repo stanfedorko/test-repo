@@ -1,2 +1,2 @@
 test git ls
-New lesson for git.
+New lesson for git. Second save.
